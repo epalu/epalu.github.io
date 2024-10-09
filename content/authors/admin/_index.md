@@ -60,8 +60,8 @@ interests:
 education:
   - area: MSc Data Science
     institution: ETH Zurich, Switzerland
-    date_start: 2018-2021
-    # date_end: 2020-12-31
+    # date_start: 2018-09-16
+    # date_end: 2021-11-31
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -69,8 +69,8 @@ education:
     #   url: 'https://example.com'
   - area: BSc Computer and Automation Engineering
     institution: Università Politecnica delle Marche
-    date_start: 2015
-    date_end: 2018
+    # date_start: 2015
+    # date_end: 2018
     # summary: |
     #   GPA: 3.8/4.0
 
