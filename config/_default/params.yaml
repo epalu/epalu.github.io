@@ -27,16 +27,14 @@ marketing:
     baidu: ''
 
 # Site header
+
 header:
-  navbar:
-    enable: true
-    blox: "navbar"
+    align: l
     show_logo: true
-    fixed_to_top: true
+    show_language: false
+    show_day_night: false
     show_search: true
-    show_theme_chooser: true
-    logo:
-      text: "Emanuele Palumbo"
+    highlight_active_link: true
 
 
 # Site footer
