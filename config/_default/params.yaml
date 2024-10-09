@@ -28,13 +28,20 @@ marketing:
 
 # Site header
 
+
 header:
-    align: l
+  navbar:
+    enable: true
+    blox: "navbar"
     show_logo: true
-    show_language: false
-    show_day_night: false
+    fixed_to_top: true
     show_search: true
-    highlight_active_link: true
+    show_theme_chooser: true
+    logo:
+      text: "Emanuele Palumbo"
+      # Logo filename in `assets/media/` folder
+      filename: "icon.png"
+
 
 
 # Site footer
