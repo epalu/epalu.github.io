@@ -78,6 +78,26 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+awards:
+  - title: Doctoral Fellowship   
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: ETH AI Center
+    # icon: coursera
+    # summary: |
+    #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Organizer and PC of the Deep Generative Models for Health Workshop at NeurIPS 2023
+    url: https://neurips.cc/virtual/2023/workshop/66495
+    date: '2023-12-15'
+    awarder: NeurIPS 2023
+  - title: Organizer and PC of the Time Series Representation Learning for Health at ICLR 2023
+    url: https://iclr.cc/virtual/2023/workshop/12832
+    date: '2023-05-05'
+    awarder: ICLR 2023
+  - title: Top Reviewer
+    # url: https://neurips.cc/virtual/2023/workshop/66495
+    date: '2023-12-09'
+    awarder: NeurIPS 2023
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -148,26 +168,7 @@ education:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Doctoral Fellowship   
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: ETH AI Center
-    # icon: coursera
-    # summary: |
-    #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Organizer and PC of the Deep Generative Models for Health Workshop at NeurIPS 2023
-    url: https://neurips.cc/virtual/2023/workshop/66495
-    date: '2023-12-15'
-    awarder: NeurIPS 2023
-  - title: Organizer and PC of the Time Series Representation Learning for Health at ICLR 2023
-    url: https://iclr.cc/virtual/2023/workshop/12832
-    date: '2023-05-05'
-    awarder: ICLR 2023
-  - title: Top Reviewer
-    # url: https://neurips.cc/virtual/2023/workshop/66495
-    date: '2023-12-09'
-    awarder: NeurIPS 2023
+
 
   
 
