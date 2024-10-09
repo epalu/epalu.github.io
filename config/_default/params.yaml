@@ -31,11 +31,13 @@ header:
   navbar:
     enable: true
     blox: "navbar"
+    show_logo: true
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
     logo:
       text: "Emanuele Palumbo"
+
 
 # Site footer
 footer:
