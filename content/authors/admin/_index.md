@@ -156,7 +156,7 @@ awards:
     url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
     date: '2022-05-01'
     awarder: ETH AI Center
-    icon: 🚀
+    icon: rocket
     summary: |
       I am a recipient of the highly competitive ETH AI Center Doctoral Fellowship: unique fellowship program for doctoral students, designed to foster interdisciplinary collaboration and a positive impact to society. 
 
@@ -164,7 +164,7 @@ awards:
     url: https://sites.google.com/view/tsrl4h-iclr2023
     date: '2023-05-05'
     awarder: ICLR 2023
-    icon: 🚀
+    icon: rocket
     summary: |
       I had the pleasure of organizing the Time Series Representation Learning for Health workshop at ICLR 2023. 
 
@@ -172,7 +172,7 @@ awards:
     url: https://sites.google.com/ethz.ch/dgm4h-neurips2023
     date: '2023-12-15'
     awarder: NeurIPS 2023
-    icon: 🚀
+    icon: rocket
     summary: |
       I had the pleasure of organizing the Deep Generative Models for Health workshop at NeurIPS 2023. 
 
