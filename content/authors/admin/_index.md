@@ -162,7 +162,7 @@ awards:
 
   - title: Organizer and Program Chair of the **Time Series Representation Learning for Health workshop**
     url: https://sites.google.com/view/tsrl4h-iclr2023
-    date: '05-05-2023'
+    date: '2023-05-05'
     awarder: ICLR 2023
     icon: 🚀
     summary: |
@@ -170,7 +170,7 @@ awards:
 
   - title: Organizer and Program Chair of the **Deep Generative Models for Health workshop**
     url: https://sites.google.com/ethz.ch/dgm4h-neurips2023
-    date: '15-12-2023'
+    date: '2023-12-15'
     awarder: NeurIPS 2023
     icon: 🚀
     summary: |
