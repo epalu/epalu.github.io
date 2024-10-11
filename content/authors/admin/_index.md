@@ -168,7 +168,7 @@ awards:
     summary: |
       I had the pleasure of organizing the Deep Generative Models for Health workshop at NeurIPS 2023. 
     
-   - title: Top Reviewer
+  - title: Top Reviewer
     url: https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers
     date: '2023-12-10'
     awarder: NeurIPS 2023
