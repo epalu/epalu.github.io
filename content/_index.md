@@ -66,8 +66,9 @@ sections:
       view: article_grid
 
   - block: resume-awards
+    id: awards
     content:
-      title: Awards
+      title: Awards and Achievements
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin  
 ---
