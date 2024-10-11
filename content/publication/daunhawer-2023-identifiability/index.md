@@ -25,7 +25,6 @@ subtitle: 'Poster @ ICLR 2023'
 
 tags: []
 categories: []
-date: '2023-01-25'
 featured: false
 draft: false
 publication_short: ""
@@ -44,7 +43,6 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-01-16T:26:44'
 publication_types:
 - '1'
 abstract: "
