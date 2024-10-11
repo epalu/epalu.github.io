@@ -156,18 +156,25 @@ awards:
     url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
     date: '2022-05-01'
     awarder: ETH AI Center
-    icon: custom/aic
+    icon: 🎓
     summary: |
       I am a recipient of the highly competitive ETH AI Center Doctoral Fellowship: unique fellowship program for doctoral students, designed to foster interdisciplinary collaboration and a positive impact to society. 
 
-awards:
-  - title: Doctoral Fellowship ETH AI Center
-    url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
-    date: '2022-05-01'
-    awarder: ETH AI Center
-    icon: hero/academic-cap
+  - title: Organizer and Program Chair of the **Time Series Representation Learning for Health workshop**
+    url: https://sites.google.com/view/tsrl4h-iclr2023
+    date: '05-05-2023'
+    awarder: ICLR 2023
+    icon: 🚀
     summary: |
-      I am a recipient of the highly competitive ETH AI Center Doctoral Fellowship: unique fellowship program for doctoral students, designed to foster interdisciplinary collaboration and a positive impact to society. 
+      I had the pleasure of organizing the Time Series Representation Learning for Health workshop at ICLR 2023. 
+
+  - title: Organizer and Program Chair of the **Deep Generative Models for Health workshop**
+    url: https://sites.google.com/ethz.ch/dgm4h-neurips2023
+    date: '15-12-2023'
+    awarder: NeurIPS 2023
+    icon: 🚀
+    summary: |
+      I had the pleasure of organizing the Deep Generative Models for Health workshop at NeurIPS 2023. 
 
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
