@@ -156,12 +156,10 @@ awards:
     url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
     date: '2022-05-01'
     awarder: ETH AI Center
-    icon: "aicenter.png"
+    icon: aic
     summary: |
       I am a recipient of the highly competitive ETH AI Center Doctoral Fellowship: unique fellowship program for doctoral students, designed to foster interdisciplinary collaboration and a positive impact to society. 
-    logo:
-      # Logo filename in `assets/media/` folder
-      filename: "icon.png"
+
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
