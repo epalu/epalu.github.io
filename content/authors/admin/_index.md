@@ -156,7 +156,7 @@ awards:
     url: https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html
     date: '2022-05-01'
     awarder: ETH AI Center
-    icon: "custom/aic"
+    icon: custom/aic
     summary: |
       I am a recipient of the highly competitive ETH AI Center Doctoral Fellowship: unique fellowship program for doctoral students, designed to foster interdisciplinary collaboration and a positive impact to society. 
 
