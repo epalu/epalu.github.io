@@ -56,7 +56,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: article-grid-start
+      view: article-grid
 
 
   - block: resume-awards
