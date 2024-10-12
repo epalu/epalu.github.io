@@ -54,9 +54,9 @@ sections:
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
-    # design:
-    #   # Choose a listing view
-    #   view: compact
+    design:
+      # Choose a listing view
+      view: card
 
 
   - block: resume-awards
