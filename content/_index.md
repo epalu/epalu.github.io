@@ -62,8 +62,8 @@ sections:
         folders:
           - publication
         exclude_featured: false
-    # design:
-    #   view: article_grid
+    design:
+      view: article_grid
 
   - block: resume-awards
     id: awards
