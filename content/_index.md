@@ -34,7 +34,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Posts
+      title: Publications
       subtitle: ''
       # text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
@@ -54,9 +54,9 @@ sections:
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
+    # design:
+    #   # Choose a listing view
+    #   view: compact
 
 
   - block: resume-awards
