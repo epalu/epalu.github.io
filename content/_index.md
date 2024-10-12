@@ -53,17 +53,17 @@ sections:
 #    design:
 #      view: article-grid
 #      columns: 2
-  - block: collection
-    id: papers
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    # design:
-    #   view: article_grid
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   # design:
+  #   #   view: article_grid
 
   - block: resume-awards
     id: awards
