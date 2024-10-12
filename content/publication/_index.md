@@ -7,7 +7,7 @@ cms_exclude: true
 # #   2 = Compact
 # #   3 = Card
 # #   4 = Citation
-view: article-grid
+view: mycitation
 
 # Optional header image (relative to `static/media/` folder).
 header:
