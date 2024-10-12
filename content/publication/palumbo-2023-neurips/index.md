@@ -12,4 +12,6 @@ publication_types:
 publication: 'NeurIPS 2023'
 url_pdf: https://openreview.net/pdf?id=A6EquH0enk 
 url_code: https://github.com/aleximmer/heteroscedastic-nn
+tags:
+- NeurIPS 2023
 ---
