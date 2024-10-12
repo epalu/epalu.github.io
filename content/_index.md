@@ -30,38 +30,13 @@ sections:
           size: cover
           position: center
           parallax: false
-#  - block: markdown
-#    content:
-#      title: '📚 My Research'
-#      subtitle: ''
-#      text: |-
-#        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-#        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-#        Please reach out to collaborate 😃
-#    design:
-#      columns: '1'
-#  - block: collection
-#    id: papers
-#    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - publication
-#        featured_only: true
-#    design:
-#      view: article-grid
-#      columns: 2
-
-
-sections:
   - block: collection
     id: papers
     content:
       title: Recent Posts
       subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      # text: 'Check out my recent blog posts below!'
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
@@ -75,13 +50,13 @@ sections:
         exclude_past: false
       # Choose how many pages you would like to offset by
       # Useful if you wish to show the first item in the Featured widget
-      offset: 0
+      # offset: 0
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
     design:
       # Choose a listing view
-      view: card
+      view: compact
 
 
   - block: resume-awards
