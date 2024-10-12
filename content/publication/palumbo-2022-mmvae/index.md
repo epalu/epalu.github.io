@@ -1,7 +1,7 @@
 ---
 title: 'MMVAE+: Enhancing the Generative Quality of Multimodal VAEs without Compromises'
 authors:
-- **Emanuele Palumbo**
+- Emanuele Palumbo
 - Imant Daunhawer
 - Julia E. Vogt
 date: '2023-01-01'
