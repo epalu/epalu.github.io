@@ -9,7 +9,7 @@ authors:
 - Andrea Ianni
 - Giampaolo Ghilardi
 date: '2022-04-01'
-publishDate: '2024-10-09T13:59:37.603377Z'
+# publishDate: '2024-10-09T13:59:37.603377Z'
 publication_types:
 - article-journal
 publication: '*Minerva Pediatr (Torino)*'
