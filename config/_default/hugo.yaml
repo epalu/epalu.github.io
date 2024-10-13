@@ -47,13 +47,13 @@ taxonomies:
   publication_type: publication_types
 markup:
   _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     lineNos: false
 security:
   _merge: deep
 sitemap:
   _merge: deep
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+
