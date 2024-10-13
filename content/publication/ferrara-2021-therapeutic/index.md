@@ -12,7 +12,7 @@ date: '2021-09-21'
 # publishDate: '2024-10-09T13:59:37.603377Z'
 publication_types:
 - article-journal
-publication: '*Minerva Pediatr (Torino)*'
+publication: '*Minerva Pediatrics*'
 tags:
 - Journal
 ---
