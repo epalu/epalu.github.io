@@ -1,6 +1,5 @@
 ---
-title: 3DIdentBox: A Toolbox for Identifiability Benchmarking
-
+title: "3DIdentBox: A Toolbox for Identifiability Benchmarking"
 authors:
 - Alice Bizeul
 - Imant Daunhawer
@@ -9,7 +8,6 @@ authors:
 - Alexander Marx
 - Julia E. Vogt
 date: '11-04-23'
-
 publication_types:
 - paper-conference
 publication: '*CleaR (Dataset Track)*'
