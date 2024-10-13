@@ -11,6 +11,7 @@ publication_types:
 publication: '*International Conference on Learning Representations*'
 url_pdf: https://openreview.net/pdf?id=k5THrhXDV3 
 url_code: https://github.com/epalu/mmvaeplus
+featured: true
 tags:
 - ICLR 2023
 ---

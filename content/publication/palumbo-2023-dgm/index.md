@@ -13,6 +13,7 @@ publication_types:
 publication: '*ICLR*'
 url_pdf: https://openreview.net/pdf?id=k5THrhXDV3
 url_code: https://github.com/epalu/CMVAE
+featured: true
 tags:
 - ICLR 2024
 ---

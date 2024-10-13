@@ -21,6 +21,7 @@ abstract: "Contrastive learning is a cornerstone underlying recent progress in m
 publication: 'ICLR 2023'
 url_pdf: https://openreview.net/pdf?id=U_2kuqoTcB  
 url_code: https://github.com/imantdaunhawer/multimodal-contrastive-learning
+featured: true
 tags:
 - ICLR 2023
 ---
