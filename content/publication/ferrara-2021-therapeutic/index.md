@@ -5,7 +5,7 @@ authors:
 - Pietro Ferrara
 - Gaia Pianese
 - Giulia Franceschini
-- Emanuele Palumbo
+- __Emanuele Palumbo__
 - Andrea Ianni
 - Giampaolo Ghilardi
 date: '2021-01-01'
