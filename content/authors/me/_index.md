@@ -17,10 +17,11 @@ last_name: Palumbo
 superuser: false
 
 # Highlight the author in author lists? (true/false)
-highlight_name: True
+highlight_name: true
 
 # Role/position/tagline
 role: PhD Student
+---
 
 # # Organizations/Affiliations to display in Biography blox
 # organizations:
