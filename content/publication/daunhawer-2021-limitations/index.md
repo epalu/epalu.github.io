@@ -3,7 +3,7 @@ title: On the Limitations of Multimodal VAEs
 subtitle: ICLR 2023
 authors:
 - Imant Daunhawer
-- Thomas M. Sutter
+- Thomas M. Sutter {style="color: red"}
 - **Kieran Chin-Cheong**
 - admin
 - Julia E. Vogt
