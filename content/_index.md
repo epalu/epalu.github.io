@@ -76,6 +76,7 @@ sections:
     id: papers
     content:
       title: Publications
+      count: 0
       text: ""
       filters:
         folders:
