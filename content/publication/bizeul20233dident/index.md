@@ -7,10 +7,10 @@ authors:
 - Bernhard Schölkopf
 - Alexander Marx
 - Julia E. Vogt
-date: '11-04-23'
+date: '23-04-11'
 publication_types:
 - paper-conference
-publication: '*CleaR (Dataset Track)*'
+publication: '*CleaR (Dataset Track) 2023*'
 url_pdf: https://www.cclear.cc/2023/AcceptedDatasets/bizeul23a.pdf
 url_code: https://github.com/alicebizeul/3DIdentBox
 featured: false
