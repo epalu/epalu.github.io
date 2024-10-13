@@ -62,7 +62,8 @@ sections:
   - block: collection
     id: fpapers
     content:
-      title: Featured Publications
+      title: Selected Publications
+      count: 0
       filters:
         folders:
           - publication
@@ -70,11 +71,11 @@ sections:
     design:
       view: article-grid
       columns: 2
-      
+
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
