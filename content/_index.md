@@ -67,8 +67,8 @@ sections:
           - publication
         featured_only: false
     design:
-      view: citation
-      columns: 1
+      view: article-grid
+      columns: 2
 
 
   - block: resume-awards

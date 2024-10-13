@@ -1,10 +1,10 @@
 ---
 title: Efficient Bayesian Heteroscedastic Regression with Deep Neural Networks
 authors:
-- Alexander Immer *
-- Emanuele Palumbo *
-- Alexander Marx †
-- Julia E Vogt †
+- Alexander Immer 
+- me 
+- Alexander Marx 
+- Julia E Vogt 
 date: '2023-01-01'
 publishDate: '2024-10-09T13:59:37.578544Z'
 publication_types:
