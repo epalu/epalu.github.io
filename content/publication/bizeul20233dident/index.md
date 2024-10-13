@@ -7,7 +7,7 @@ authors:
 - Bernhard Schölkopf
 - Alexander Marx
 - Julia E. Vogt
-date: '23-04-11'
+date: '2023-04-11'
 publication_types:
 - paper-conference
 publication: '*CleaR (Dataset Track) 2023*'
