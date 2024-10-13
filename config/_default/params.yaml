@@ -62,6 +62,6 @@ footer:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
