@@ -4,7 +4,7 @@ subtitle: ICLR 2023
 authors:
 - Imant Daunhawer
 - Thomas M. Sutter
-- Kieran Chin-Cheong
+- **Kieran Chin-Cheong**
 - admin
 - Julia E. Vogt
 date: '2022-01-01'
