@@ -3,7 +3,7 @@ title: Identifiability Results for Multimodal Contrastive Learning
 authors:
 - Imant Daunhawer
 - Alice Bizeul
-- me
+- admin
 - Alexander Marx
 - Julia E. Vogt
 date: '2023-01-16'

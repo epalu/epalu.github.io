@@ -1,7 +1,7 @@
 ---
 title: Deep Generative Clustering with Multimodal Diffusion Variational Autoencoders
 authors:
-- me
+- admin
 - Laura Manduchi
 - Sonia Laguna
 - Daphné Chopard 
