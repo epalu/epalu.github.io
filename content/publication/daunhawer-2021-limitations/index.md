@@ -6,7 +6,7 @@ authors:
 - Thomas M. Sutter {style="color: red"}
 - Kieran Chin-Cheong
 - admin
-- $\textbf{Julia E. Vogt}$
+- ${\textbf{Julia E. Vogt}}$
 date: '2022-01-01'
 publishDate: '2024-10-09T13:59:37.597187Z'
 publication_types:
