@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emanuele Palumbo
+title: **Emanuele Palumbo**
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
