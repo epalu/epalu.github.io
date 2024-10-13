@@ -6,7 +6,7 @@ authors:
 - Thomas M. Sutter
 - Kieran Chin-Cheong
 - admin
-- {{< math >}}$\textbf{Julia E. Vogt}${{< /math >}}
+- {< mark >}Julia E. Vogt{< /mark >}
 date: '2022-01-01'
 publishDate: '2024-10-09T13:59:37.597187Z'
 publication_types:
