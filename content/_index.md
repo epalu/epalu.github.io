@@ -67,8 +67,8 @@ sections:
           - publication
         featured_only: false
     design:
-      view: card
-      columns: 2
+      view: citation
+      columns: 1
 
 
   - block: resume-awards
