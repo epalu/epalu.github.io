@@ -67,7 +67,7 @@ sections:
           - publication
         featured_only: false
     design:
-      view: article-grid
+      view: card
       columns: 2
 
 
