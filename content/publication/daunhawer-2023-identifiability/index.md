@@ -6,7 +6,7 @@ authors:
 - admin
 - Alexander Marx
 - Julia E. Vogt
-date: '2022-01-22'
+date: '2023-01-22'
 # publishDate: '2024-10-09T13:59:37.591048Z'
 
 # Featured image
