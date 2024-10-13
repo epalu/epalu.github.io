@@ -5,7 +5,7 @@ authors:
 - Imant Daunhawer
 - Thomas M. Sutter
 - Kieran Chin-Cheong
-- Emanuele Palumbo
+- admin
 - Julia E. Vogt
 date: '2022-01-01'
 publishDate: '2024-10-09T13:59:37.597187Z'
