@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      # button:
-      #  text: Download CV
-      #  url: uploads/resume.pdf
+      button:
+        text: Download CV
+        url: uploads/CV_Palumbo_Emanuele.pdf
     design:
       css_class: dark
       background:
@@ -30,40 +30,61 @@ sections:
           size: cover
           position: center
           parallax: false
-#  - block: markdown
-#    content:
-#      title: '📚 My Research'
-#      subtitle: ''
-#      text: |-
-#        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-#        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-#        Please reach out to collaborate 😃
-#    design:
-#      columns: '1'
-#  - block: collection
-#    id: papers
-#    content:
-#      title: Featured Publications
-#      filters:
-#        folders:
-#          - publication
-#        featured_only: true
-#    design:
-#      view: article-grid
-#      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Publications
+  #     subtitle: ''
+  #     # text: 'Check out my recent blog posts below!'
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 0
+  #     # Filter on criteria
+  #     filters:
+  #       # The folders to display content from
+  #       folders:
+  #         - publication
+  #       featured_only: false
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #     # Choose how many pages you would like to offset by
+  #     # Useful if you wish to show the first item in the Featured widget
+  #     # offset: 0
+  #     # Field to sort by, such as Date or Title
+  #     sort_by: 'Date'
+  #     sort_ascending: false
+  #   design:
+  #     # Choose a listing view
+  #     view: article-grid
+
+
+  - block: collection
+    id: fpapers
+    content:
+      title: Selected Publications
+      count: 0
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Publications
+      count: 0
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      view: article_grid
+      view: citation
+
 
   - block: resume-awards
     id: awards
