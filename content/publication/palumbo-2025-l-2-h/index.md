@@ -9,6 +9,6 @@ authors:
 date: '2025-01-01'
 publishDate: '2025-06-06T14:38:31.105647Z'
 publication_types:
-- manuscript
-publication: '*ICML*'
+- paper-conference
+publication: '*ICML 2025*'
 ---
