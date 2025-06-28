@@ -116,7 +116,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: simple-list
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
