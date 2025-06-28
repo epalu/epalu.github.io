@@ -92,6 +92,34 @@ sections:
       title: Awards and Achievements
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin  
+
+  - block: collection
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: news
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - news
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: date-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
 ---
 
       
