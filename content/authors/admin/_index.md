@@ -229,7 +229,7 @@ awards:
 
 # About Me
 
-I’m Emanuele, Ph.D. student in Computer Science at ETH Zurich. I am a Doctoral Fellow at the ETH AI Center, and part of the Medical Data Science Lab led by Prof. Julia Vogt.
+I’m Emanuele, Ph.D. student in Computer Science at ETH Zurich. I am a Doctoral Fellow at the ETH AI Center, and part of the Medical Data Science Lab led by Prof. Julia Vogt. Currently, I am on a Machine Learning Research Internship in Health AI at Apple AIML. 
 
 In my research I enjoy working on diverse problems that span multiple areas of deep learning. A large part of my research studies how to design generative models that handle a large set of diversified data modalities, balancing generative quality with semantic alignment and meaningful representations. Currently I am looking in particular at novel forms of guidance to mitigate well-known shortcomings of conditional diffusion models. I also have a strong interest on representation learning and have explored ideas for self-supervised learning, clustering, and modelling hierarches in the data. 
 
