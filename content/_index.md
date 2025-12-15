@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/CV_Palumbo_Emanuele.pdf
+        url: uploads/CV_Emanuele_Palumbo.pdf
     design:
       css_class: dark
       background:
